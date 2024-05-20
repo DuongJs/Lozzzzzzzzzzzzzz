@@ -1,3 +1,3 @@
 </div>
 
-![Preview](.bg.webp)
+![Preview](./bg.webp)
